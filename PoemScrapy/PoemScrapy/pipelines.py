@@ -24,7 +24,7 @@ class PoemscrapyPipeline:
             host='localhost',
             port=3306,
             user='root',
-            password='1913',
+            password='',
             db='company',
             charset='utf8'
         )
